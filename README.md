@@ -1,8 +1,6 @@
 ### Always use the **[latest release](https://github.com/codepotent/Disable-FLoC/releases/latest)** on production sites! 
 
-### [Online Docs](https://codepotent.com/classicpress/plugins/) **|** [Support Forum](https://forums.classicpress.net/c/plugins/plugin-support/67)
-
-_Branch downloads and clones are for development; not for general use._
+Have you ever heard of "Federated Learning of Cohorts" – or FLoC? It is Google's next-generation technique for tracking users across the web. They say it's anonymous and safe. We know better. This plugin sets a header to disable the FLoC tracking.
 
 ---
 
