@@ -4,7 +4,7 @@
  * -----------------------------------------------------------------------------
  * Plugin Name: Disable FloC
  * Description: Disable Google's next-gen tracking technology.
- * Version: 1.1.0
+ * Version: 1.1.1
  * Author: azurecurve
  * Author URI: https://dev.azrcrv.co.uk/classicpress-plugins
  * Plugin URI: https://dev.azrcrv.co.uk/classicpress-plugins
