@@ -2,14 +2,18 @@
 
 /**
  * -----------------------------------------------------------------------------
- * Plugin Name: Disable FloC
- * Description: Disable Google's next-gen tracking technology.
- * Version: 1.1.1
- * Author: azurecurve
- * Author URI: https://dev.azrcrv.co.uk/classicpress-plugins
- * Plugin URI: https://dev.azrcrv.co.uk/classicpress-plugins
- * Text Domain: codepotent-disable-floc
- * Domain Path: /languages
+ * Plugin Name:		Disable FloC
+ * Description:		Disable Google's next-gen tracking technology.
+ * Version:			1.1.2
+ * Requires CP:		1.0
+ * Author:			azurecurve
+ * Author URI:		https://dev.azrcrv.co.uk/classicpress-plugins
+ * Plugin URI:		https://dev.azrcrv.co.uk/classicpress-plugins
+ * Donate link:		https://development.azurecurve.co.uk/support-development/
+ * Text Domain:		codepotent-disable-floc
+ * Domain Path:		/languages
+ * License:			GPLv2 or later
+ * License URI:		http://www.gnu.org/licenses/gpl-2.0.html
  * -----------------------------------------------------------------------------
  * This is free software released under the terms of the General Public License,
  * version 2, or later. It is distributed WITHOUT ANY WARRANTY; without even the
